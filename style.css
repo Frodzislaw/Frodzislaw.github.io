@@ -157,8 +157,6 @@ button:hover {
   margin-bottom: 5px;
 }
 
-/* Media Queries for Responsiveness */
-
 @media (max-width: 768px) {
   .nav-link {
     font-size: 18px;
